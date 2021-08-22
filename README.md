@@ -1,7 +1,13 @@
 <div align='center'>
-  <h1>David Ponce ✌️</h1>
-  <h3>desarrollador web</h3>
+  <img width='160' src='./assets/me.webp'/>
 </div>
+
+<div align='center'>
+  <h2>Me llamo David ✌️</h2>
+  <h4>Soy desarrollador web fullstack</h4>
+</div>
+
+<br>
 
 <div align='center'>
   <h3>Tecnologías 🔥</h3>
@@ -62,6 +68,8 @@
     </tr>
   </table>
 </div>
+
+<br>
 
 <div align='center'>
   <h3>Estadísticas 🧐</h3>
