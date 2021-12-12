@@ -73,5 +73,5 @@
 
 <div align='center'>
   <h3>Estadísticas 🧐</h3>
-  <img src='https://github-readme-stats.vercel.app/api?username=davidp46&show_icons=true&hide_border=true&theme=material-palenight' alt='davidp46 stats' />
+  <img src='https://github-readme-stats.vercel.app/api?username=david-ponc&show_icons=true&hide_border=true&theme=material-palenight' alt='david-ponc stats' />
 </div>
